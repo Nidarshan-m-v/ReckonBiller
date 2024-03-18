@@ -8,11 +8,11 @@ I completed my first project independently during my high school.
 4. Total price of the products can be calculated and bill will get generated.
 
 # Module Requirments
-csv: No additional requirements needed.
-tkinter: Typically included in standard Python installations. No additional requirements needed.
-pymysql: Requires the pymysql package. You can install it using pip: pip install pymysql.
-PIL: Requires the Pillow package. You can install it using pip: pip install Pillow.
-tkinter.messagebox: No additional requirements needed.
-math, random: No additional requirements needed.
-twilio.rest: Requires the twilio package. You can install it using pip: pip install twilio.
-mysql.connector: Requires the mysql-connector-python package. You can install it using pip: pip install mysql-connector-python.
+1.csv: No additional requirements needed.
+2.tkinter: Typically included in standard Python installations. No additional requirements needed.
+3.pymysql: Requires the pymysql package. You can install it using pip: pip install pymysql.
+4.PIL: Requires the Pillow package. You can install it using pip: pip install Pillow.
+5.tkinter.messagebox: No additional requirements needed.
+6.math, random: No additional requirements needed.
+7.twilio.rest: Requires the twilio package. You can install it using pip: pip install twilio.
+8.mysql.connector: Requires the mysql-connector-python package. You can install it using pip: pip install mysql-connector-python.
